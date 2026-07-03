@@ -44,4 +44,4 @@ Go to Fleet → Add Vessel, enter the MMSI or pair via the onboard GPS module.
 
 ### Contact
 
-For technical support, billing questions, or enterprise inquiries, contact us at [support@fleetscope.app](mailto:support@fleetscope.app).
+For technical support, billing questions, or enterprise inquiries, contact us at [usailfasttech@gmail.com](mailto:usailfasttech@gmail.com).

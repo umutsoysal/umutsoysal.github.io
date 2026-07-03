@@ -41,4 +41,4 @@ Open Settings → Fleet Mode → End Session.
 
 ### Contact
 
-For bug reports, feature requests, or general questions, reach out at [support@racemaite.app](mailto:support@racemaite.app).
+For bug reports, feature requests, or general questions, reach out at [usailfasttech@gmail.com](mailto:usailfasttech@gmail.com).
